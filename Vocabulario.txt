@@ -1,0 +1,23 @@
+IP: Identificador unico de una pagina web, es unico e indica la direccion donde esta el ordenador
+que contiene la página web.
+
+Dominio: Tambien llamado URL y es el nombre asociado a la direccion IP, para nosotros es mas facil
+recordar un nombre que una IP.
+
+DNS: Domain Name Service: Es un servidor web cuya funcion principal es traducir el nombre de dominio
+a el numero identificador IP de la pagina.
+
+Sitio web: Es un conjunto de recursos web, que se encuentran alojados en el dominio.
+
+Servidor web: Es un ordenador que se encarga de almacenar y servir los recursos de la p+agina web.
+
+Hosting: Es el disco duro en donde se guarda los recursos en el servidor web.
+
+Peticion: Es la accion de opedir recursos al servidor.
+
+HTML: Lenguaje de marcado de hipertexto, no es un lengiaje de programacion, con este se contruye 
+la base de todas las paginas web, esta basado en el uso de etiquetas y no se encarga del aspecto visual
+de la pagina, es la estructura.
+
+
+
